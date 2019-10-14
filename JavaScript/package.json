@@ -1,0 +1,24 @@
+{
+  "name": "JavaScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node src/main.js",
+    "compile": "babel src --out-dir .compiled --source-maps --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.6.4",
+    "@babel/node": "^7.0.0",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/preset-es2015": "^7.0.0-beta.53",
+    "babel-loader": "^8.0.6",
+    "nodemon": "^1.19.3"
+  },
+  "dependencies": {}
+}
