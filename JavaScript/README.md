@@ -8,3 +8,5 @@ https://github.com/babel/babel-upgrade
 
 Debugging ES6 in Visual Studio Code
 https://medium.com/@drcallaway/debugging-es6-in-visual-studio-code-4444db797954
+
+"start": "nodemon --exec babel-node src/main.js npm run compile",

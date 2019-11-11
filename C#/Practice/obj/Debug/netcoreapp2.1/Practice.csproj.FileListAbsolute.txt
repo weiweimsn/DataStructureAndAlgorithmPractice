@@ -1,0 +1,10 @@
+E:\Code\DataStructureAndAlgorithmPractice\C#\Practice\bin\Debug\netcoreapp2.1\Practice.deps.json
+E:\Code\DataStructureAndAlgorithmPractice\C#\Practice\bin\Debug\netcoreapp2.1\Practice.runtimeconfig.json
+E:\Code\DataStructureAndAlgorithmPractice\C#\Practice\bin\Debug\netcoreapp2.1\Practice.runtimeconfig.dev.json
+E:\Code\DataStructureAndAlgorithmPractice\C#\Practice\bin\Debug\netcoreapp2.1\Practice.dll
+E:\Code\DataStructureAndAlgorithmPractice\C#\Practice\bin\Debug\netcoreapp2.1\Practice.pdb
+E:\Code\DataStructureAndAlgorithmPractice\C#\Practice\obj\Debug\netcoreapp2.1\Practice.csprojAssemblyReference.cache
+E:\Code\DataStructureAndAlgorithmPractice\C#\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfoInputs.cache
+E:\Code\DataStructureAndAlgorithmPractice\C#\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfo.cs
+E:\Code\DataStructureAndAlgorithmPractice\C#\Practice\obj\Debug\netcoreapp2.1\Practice.dll
+E:\Code\DataStructureAndAlgorithmPractice\C#\Practice\obj\Debug\netcoreapp2.1\Practice.pdb
